@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "04672feed0e4753d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8299ca95d123b3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "960fc0f9ced22fd2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "VISIÓN ARTIFICIAL/U1/Tarea1 24 de agosto 2026.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Tarea1 24 de agosto 2026"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53b7e0a3531ae2cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d23235b8d4f44b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "192f286cbcade514",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "4497ce878ea9d2c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "aa5f846586550686",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "53167630fb1f5149",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a8fbb2b09afd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2adc3a7e691be136",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VISIÓN ARTIFICIAL/U1/ACTIVIDAD 1.1.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "6c412be1d148def0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REDES EMERGENTES/Fundamentos de redes emergentes 26-08-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Fundamentos de redes emergentes 26-08-25"
+            }
+          },
+          {
+            "id": "f18693310ee7d52e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "770fa010b2b5a905",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REDES EMERGENTES/Fundamentos de redes emergentes 26-08-25.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Fundamentos de redes emergentes 26-08-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Crear nueva base": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "192f286cbcade514",
+  "lastOpenFiles": [
+    "Tarea1.pdf",
+    "VISIÓN ARTIFICIAL/U1/Tarea1 24 de agosto 2026.pdf",
+    "VISIÓN ARTIFICIAL/U1/ACTIVIDAD 1.1.md",
+    "REDES EMERGENTES/U1.md",
+    "REDES EMERGENTES/Brainstorming Mapa Mental Doodle Colorido Verde y Violeta.png",
+    "Sistemas Operativos/Pasted image 20251020205144.png",
+    "Sistemas Operativos/Pasted image 20251020205244.png",
+    "VISIÓN ARTIFICIAL/U1",
+    "VISIÓN ARTIFICIAL",
+    "REDES EMERGENTES/U3 BLOCKCHAIN (REDES).md",
+    "REDES EMERGENTES/WhatsApp Image 2025-10-21 at 8.35.41 AM.jpeg",
+    "Sistemas Operativos/U3 BLOCKCHAIN SOD.md",
+    "Sistemas Operativos/WhatsApp Image 2025-10-20 at 7.27.48 PM.jpeg",
+    "Sistemas Operativos/Pasted image 20251020205456.png",
+    "Sistemas Operativos/U2.md",
+    "Sistemas Operativos/U1.md",
+    "REDES EMERGENTES/U2.md",
+    "REDES EMERGENTES/WhatsApp Image 2025-09-02 at 10.38.17 AM.jpeg",
+    "REDES EMERGENTES/WhatsApp Image 2025-10-02 at 9.30.16 AM.jpeg",
+    "REDES EMERGENTES/Gráfica Cuadro Sinóptico Ciencias Políticas Profesional Verde Azulado.jpg",
+    "Sistemas Operativos/WhatsApp Image 2025-09-04 at 10.28.06 AM.jpeg",
+    "REDES EMERGENTES/U2",
+    "REDES EMERGENTES/Fundamentos de redes emergentes 26-08-25.md",
+    "Sistemas Operativos",
+    "REDES EMERGENTES"
+  ]
+}
