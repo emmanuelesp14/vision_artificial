@@ -1,17 +1,3 @@
-**OBJETIVO:** Desarrollar y utilizar sistemas de visión embebidos que incluyan aprendizaje de maquina que puedan ser aplicadas en la diversidad de áreas de aplicación de sistemas de visión artificial.
+Mencionar una aplicación donde se aplique la visión artificial 
 
-- Comprender la arquitectura de un sistema de visión artificial y el procesamiento digital de imagenes.
-
-- conocer la arquitectura y estructura de un sistema de visión que se utiliza en la industria
-
-- Adquirir conocimineto básico de algoritmos de visión artificial para una aplicación en especifica.
-
-**TEMARIO:**
-
-| NO. | TEMAS                                                  |
-| --- | ------------------------------------------------------ |
-| 1   | SISTEMAS DE VISIÓN Y PROCESAMIENTO DIGITAL DE IMAGENES |
-| 2   | SISTEMAS DE VISÓN                                      |
-| 3   | PROCESAMIENTO DE IMAGENES Y VIDEO                      |
-
-TAREA: VER EL TEMARIO Y ESCRIBIR QUE ESPERAMOS DE LA MATERIA (PDF).
+En los **vehículos autónomos** (como los de Tesla o Waymo), la visión artificial procesa en tiempo real el flujo de imágenes transmitido por cámaras externas para detectar peatones, interpretar señales de tráfico, delimitar los carriles de la vía y calcular distancias de frenado, permitiendo al automóvil tomar decisiones de navegación seguras sin intervención humana.
