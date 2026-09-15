@@ -1,3 +1,0 @@
-Mencionar una aplicación donde se aplique la visión artificial 
-
-En los **vehículos autónomos** (como los de Tesla o Waymo), la visión artificial procesa en tiempo real el flujo de imágenes transmitido por cámaras externas para detectar peatones, interpretar señales de tráfico, delimitar los carriles de la vía y calcular distancias de frenado, permitiendo al automóvil tomar decisiones de navegación seguras sin intervención humana.
