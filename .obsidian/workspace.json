@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Obsidian Vault/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,7 +189,7 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "112c9c7ccb49a9b6",
+  "active": "05ad980425733523",
   "lastOpenFiles": [
     "Obsidian Vault/VISIÓN ARTIFICIAL/U1/UNIDAD 1.md",
     "Obsidian Vault/VISIÓN ARTIFICIAL/U1/Tarea1 24 de agosto 2026.pdf",
