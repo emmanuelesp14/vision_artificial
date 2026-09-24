@@ -189,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,6 +206,7 @@
   "lastOpenFiles": [
     "Obsidian Vault/VISIÓN ARTIFICIAL/UNIDAD 1.md",
     "Obsidian Vault/VISIÓN ARTIFICIAL/UNIDAD 2.md",
+    "Sin título.base",
     "Obsidian Vault/VISIÓN ARTIFICIAL/U2"
   ]
 }
